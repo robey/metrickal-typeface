@@ -1,11 +1,11 @@
 {
 DisplayStrings = (
-a,
-D,
-G
+B,
+P,
+R
 );
 date = "2012-08-21 05:40:05 +0000";
-familyName = "Metrickal";
+familyName = "Metrickal-5";
 featurePrefixes = (
 {
 automatic = 1;
@@ -90,7 +90,7 @@ unicode = 0041;
 },
 {
 glyphname = B;
-lastChange = "2012-08-27 23:22:38 +0000";
+lastChange = "2012-12-13 09:52:31 +0000";
 layers = (
 {
 guideLines = (
@@ -117,7 +117,7 @@ paths = (
 {
 closed = 0;
 nodes = (
-"200 310 LINE"
+"220 310 LINE"
 );
 },
 {
@@ -125,13 +125,13 @@ closed = 1;
 nodes = (
 "130 390 LINE",
 "130 620 LINE",
-"240 620 LINE",
-"360 620 OFFCURVE",
+"270 620 LINE",
+"350 620 OFFCURVE",
 "390 575 OFFCURVE",
 "390 505 CURVE",
 "390 435 OFFCURVE",
-"320 390 OFFCURVE",
-"200 390 CURVE"
+"340 390 OFFCURVE",
+"220 390 CURVE"
 );
 },
 {
@@ -139,13 +139,13 @@ closed = 1;
 nodes = (
 "130 80 LINE",
 "130 310 LINE",
-"200 310 LINE",
-"320 310 OFFCURVE",
+"220 310 LINE",
+"340 310 OFFCURVE",
 "390 265 OFFCURVE",
 "390 195 CURVE",
 "390 125 OFFCURVE",
-"360 80 OFFCURVE",
-"240 80 CURVE"
+"350 80 OFFCURVE",
+"270 80 CURVE"
 );
 },
 {
@@ -155,12 +155,12 @@ nodes = (
 "470 425 OFFCURVE",
 "470 505 CURVE SMOOTH",
 "470 634 OFFCURVE",
-"395 700 OFFCURVE",
-"240 700 CURVE",
+"385 700 OFFCURVE",
+"270 700 CURVE",
 "50 700 LINE",
 "50 0 LINE",
-"240 0 LINE",
-"395 0 OFFCURVE",
+"270 0 LINE",
+"385 0 OFFCURVE",
 "470 66 OFFCURVE",
 "470 195 CURVE SMOOTH",
 "470 275 OFFCURVE",
@@ -171,7 +171,7 @@ nodes = (
 {
 closed = 0;
 nodes = (
-"200 390 LINE"
+"220 390 LINE"
 );
 }
 );
@@ -920,7 +920,7 @@ unicode = 004F;
 },
 {
 glyphname = P;
-lastChange = "2012-10-24 23:18:24 +0000";
+lastChange = "2012-12-13 09:53:12 +0000";
 layers = (
 {
 layerId = "85308D4F-3C98-4E4B-A926-E3A24A251B96";
@@ -931,25 +931,25 @@ closed = 1;
 nodes = (
 "130 390 LINE",
 "130 620 LINE",
-"210 620 LINE",
+"250 620 LINE",
 "390 620 OFFCURVE",
 "390 530 OFFCURVE",
 "390 500 CURVE",
 "390 470 OFFCURVE",
 "390 390 OFFCURVE",
-"210 390 CURVE"
+"250 390 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"210 310 LINE",
+"250 310 LINE",
 "425 311 OFFCURVE",
 "470 400 OFFCURVE",
 "470 500 CURVE SMOOTH",
 "470 600 OFFCURVE",
 "425 700 OFFCURVE",
-"210 700 CURVE",
+"250 700 CURVE",
 "50 700 LINE",
 "50 0 LINE",
 "130 0 LINE",
@@ -1042,7 +1042,7 @@ unicode = 0051;
 },
 {
 glyphname = R;
-lastChange = "2012-09-12 00:00:23 +0000";
+lastChange = "2012-12-13 09:53:58 +0000";
 layers = (
 {
 anchors = (
@@ -1081,13 +1081,13 @@ closed = 1;
 nodes = (
 "130 390 LINE",
 "130 620 LINE",
-"240 620 LINE",
-"360 620 OFFCURVE",
+"270 620 LINE",
+"350 620 OFFCURVE",
 "390 570 OFFCURVE",
 "390 500 CURVE",
 "390 430 OFFCURVE",
 "360 390 OFFCURVE",
-"200 390 CURVE"
+"240 390 CURVE"
 );
 },
 {
@@ -1098,8 +1098,8 @@ nodes = (
 "470 370 OFFCURVE",
 "470 500 CURVE SMOOTH",
 "470 630 OFFCURVE",
-"395 700 OFFCURVE",
-"240 700 CURVE",
+"385 700 OFFCURVE",
+"270 700 CURVE",
 "50 700 LINE",
 "50 0 LINE",
 "130 0 LINE",
@@ -1112,7 +1112,7 @@ nodes = (
 {
 closed = 0;
 nodes = (
-"200 390 LINE"
+"240 390 LINE"
 );
 }
 );
