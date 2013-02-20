@@ -37,11 +37,9 @@ daunting. But I'm open to filling them in.
 License
 -------
 
-This typeface is licensed under the Apache 2 License, with one exception: You
-may not publish or release this typeface under the name "Metrickal" if you
-change it. This is the same stipulation on Bitstream Vera Sans Mono, and I
-think it helps avoid confusion. If you make a change to this typeface, and I
-won't accept it, then you are free to fork and release it under a new name.
+This typeface is licensed under the Apache 2 License. To avoid confusion,
+please don't publish your own binary font files for public use under the
+name "Metrickal" -- come up with your own name, or send me a pull request.
 
 
 Code
