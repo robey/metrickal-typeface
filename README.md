@@ -61,7 +61,7 @@ Notes
 - height: 700
 - x-height: 500
 - width: 420
-- left and right margins: 50 each
+- left and right margins: 70 each
 - baseline: -180
 - punctuation overshoot (top & bottom): 80 each
 - stroke thickness: 80
